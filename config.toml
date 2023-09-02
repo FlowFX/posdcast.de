@@ -5,7 +5,7 @@ default_language = "de"
 compile_sass = false
 build_search_index = false
 generate_feed = true
-feed_filename = "rss.xml"
+feed_filename = "episodes.mp3.rss"
 
 [markdown]
 highlight_code = true
