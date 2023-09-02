@@ -1,4 +1,4 @@
-base_url = "https://posdcast.de/"
+base_url = "https://posdcast.de"
 title = "Der Posdcast"
 description = "Ein Podcast"
 default_language = "de"
@@ -6,6 +6,15 @@ compile_sass = false
 build_search_index = false
 generate_feed = true
 feed_filename = "episodes.mp3.rss"
+
+
+[itunes]
+author = "Florian Posdziech"
+email = "hallo@flowfx.de"
+license = "CC-BY"
+explicit = false
+keywords = []
+categories = []
 
 [markdown]
 highlight_code = true
